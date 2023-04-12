@@ -1,0 +1,54 @@
+[
+  {
+    "AllSubForums": [
+      {
+        "OwnedBy": {
+          "Username": "umarsaleem",
+          "Password": null
+        },
+        "Title": "VideoGames",
+        "Description": "The Underdog Tale Of The 3DS: Nintendo\u2019s Fight to Stay Above Water And the End Of the Handheld Console",
+        "CreatedAt": "2023-04-12T16:06:22.8452272+02:00",
+        "Views": 3,
+        "Id": 1,
+        "AllPosts": [
+          {
+            "Header": "Agree",
+            "Body": "Yes, they did, but they saved the succinct mic drop for the used games part.",
+            "WrittenBy": {
+              "Username": "umarsaleem",
+              "Password": null
+            },
+            "CreatedAt": "2023-04-12T16:07:17.6930729+02:00",
+            "Id": 1,
+            "Comments": []
+          }
+        ]
+      }
+    ],
+    "ForumName": "Gaming",
+    "ForumDescription": "Here you can read about games",
+    "Id": 1,
+    "Views": 6
+  },
+  {
+    "AllSubForums": [
+      {
+        "OwnedBy": {
+          "Username": "umarsaleem12",
+          "Password": null
+        },
+        "Title": "USA politics",
+        "Description": "They are doing good",
+        "CreatedAt": "2023-04-12T16:19:41.4784208+02:00",
+        "Views": 0,
+        "Id": 1,
+        "AllPosts": []
+      }
+    ],
+    "ForumName": "POLITICS",
+    "ForumDescription": "here you can discuss about politics",
+    "Id": 2,
+    "Views": 3
+  }
+]

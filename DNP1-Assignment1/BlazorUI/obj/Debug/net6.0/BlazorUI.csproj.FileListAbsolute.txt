@@ -1,0 +1,154 @@
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\appsettings.Development.json
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\appsettings.json
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\BlazorUI.staticwebassets.runtime.json
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\BlazorUI.exe
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\BlazorUI.deps.json
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\BlazorUI.runtimeconfig.json
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\BlazorUI.dll
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\ref\BlazorUI.dll
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\BlazorUI.pdb
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\Contracts.dll
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\Entities.dll
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\Contracts.pdb
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\Entities.pdb
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\BlazorUI.csproj.AssemblyReference.cache
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\BlazorUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\BlazorUI.AssemblyInfoInputs.cache
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\BlazorUI.AssemblyInfo.cs
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\BlazorUI.csproj.CoreCompileInputs.cache
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\BlazorUI.MvcApplicationPartsAssemblyInfo.cache
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\BlazorUI.RazorAssemblyInfo.cache
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\BlazorUI.RazorAssemblyInfo.cs
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\staticwebassets.build.json
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\staticwebassets.development.json
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\bundle\BlazorUI.styles.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\projectbundle\BlazorUI.bundle.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\BlazorUI.csproj.CopyComplete
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\BlazorUI.dll
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\ref\BlazorUI.dll
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\BlazorUI.pdb
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\BlazorUI.genruntimeconfig.cache
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\CreateForum.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\UIElements\Modal.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\User\CreateUser.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\User\Login.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\UIElements\NotLoggedIn.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\SubForums.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\Posts\AllPosts.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\Posts\ViewPost\ViewPost.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\users.json
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\UIElements\LoginButtons.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\CreateSubForums.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\Posts\CreatePost.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\Forums.razor.rz.scp.css
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\forums.json
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\HttpServices.dll
+D:\SEM 3\SEM3\DNP1\DNP1-Assignment-1\DNPFirstAssignment\BlazorUI\bin\Debug\net6.0\HttpServices.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\appsettings.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\forums.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\users.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\BlazorUI.staticwebassets.runtime.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\BlazorUI.exe
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\BlazorUI.deps.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\BlazorUI.runtimeconfig.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\BlazorUI.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\BlazorUI.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\Contracts.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\Entities.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\HttpServices.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\HttpServices.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\bin\Debug\net6.0\Entities.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\BlazorUI.csproj.AssemblyReference.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\BlazorUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\BlazorUI.AssemblyInfoInputs.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\BlazorUI.AssemblyInfo.cs
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\BlazorUI.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\BlazorUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\BlazorUI.RazorAssemblyInfo.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\BlazorUI.RazorAssemblyInfo.cs
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\staticwebassets\msbuild.BlazorUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorUI.props
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorUI.props
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorUI.props
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\CreateForum.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\Forums.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\CreateSubForums.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\Posts\AllPosts.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\Posts\CreatePost.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\Posts\ViewPost\ViewPost.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\SubForums.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\UIElements\LoginButtons.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\UIElements\Modal.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\UIElements\NotLoggedIn.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\User\CreateUser.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\User\Login.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\bundle\BlazorUI.styles.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\scopedcss\projectbundle\BlazorUI.bundle.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\BlazorUI.csproj.CopyComplete
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\BlazorUI.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\refint\BlazorUI.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\BlazorUI.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\BlazorUI.genruntimeconfig.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1-master\BlazorUI\obj\Debug\net6.0\ref\BlazorUI.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\appsettings.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\forums.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\users.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\BlazorUI.staticwebassets.runtime.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\BlazorUI.exe
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\BlazorUI.deps.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\BlazorUI.runtimeconfig.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\BlazorUI.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\BlazorUI.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\Contracts.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\Entities.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\HttpServices.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\HttpServices.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\bin\Debug\net6.0\Entities.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\BlazorUI.csproj.AssemblyReference.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\BlazorUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\BlazorUI.AssemblyInfoInputs.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\BlazorUI.AssemblyInfo.cs
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\BlazorUI.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\BlazorUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\BlazorUI.RazorAssemblyInfo.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\BlazorUI.RazorAssemblyInfo.cs
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\staticwebassets\msbuild.BlazorUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorUI.props
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorUI.props
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorUI.props
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\CreateForum.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\Forums.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\CreateSubForums.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\Posts\AllPosts.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\Posts\CreatePost.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\Posts\ViewPost\ViewPost.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\Forum\SubForums\SubForums.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\UIElements\LoginButtons.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\UIElements\Modal.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\UIElements\NotLoggedIn.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\User\CreateUser.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Pages\User\Login.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\bundle\BlazorUI.styles.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\scopedcss\projectbundle\BlazorUI.bundle.scp.css
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\BlazorUI.csproj.CopyComplete
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\BlazorUI.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\refint\BlazorUI.dll
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\BlazorUI.pdb
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\BlazorUI.genruntimeconfig.cache
+C:\Users\Bruger\RiderProjects\DNP1-Assignment1\BlazorUI\obj\Debug\net6.0\ref\BlazorUI.dll

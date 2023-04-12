@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Svy2TSk3jrUcnz//us1iEBYC32OfWFjGo3paOEwhfcj6L1YQfq0SVZfMpab6dHjL0fpkwSX2XWD0mqgCwUOlUg==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\DNP_Assignment_Part1-2\\DNP1-Assignment1\\JsonDataAccess\\JsonDataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
